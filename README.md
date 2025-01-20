@@ -1,6 +1,6 @@
 # Vitual Private Network (VPN)
 <p align="center">
-<img src=![image](https://github.com/user-attachments/assets/b4c762ff-47a1-409d-aca4-6ba3a24ab4a8)
+[image](https://github.com/user-attachments/assets/b4c762ff-47a1-409d-aca4-6ba3a24ab4a8)
 />
 </p>
 
