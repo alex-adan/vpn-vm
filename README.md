@@ -1,8 +1,6 @@
 # Vitual Private Network (VPN)
 <p align="center">
-![image](https://github.com/user-attachments/assets/021c2b43-a5bc-44ed-a9cf-0891c4f55bbe)
-
-/>
+<img src="https://i.imgur.com/MntON5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>VPN - Prerequisites and Installation</h1>
